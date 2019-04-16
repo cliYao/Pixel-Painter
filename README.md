@@ -1,5 +1,24 @@
 # Pixel Painter
 
+* 取色器
+
+<img src="https://github.com/cliYao/Pixel-Painter/raw/master/ScreenShots/1.gif" width="75%" height="75%">
+
+* 放大
+
+<img src="https://github.com/cliYao/Pixel-Painter/raw/master/ScreenShots/2.gif" width="75%" height="75%">
+
+* 拖拽
+
+<img src="https://github.com/cliYao/Pixel-Painter/raw/master/ScreenShots/3.gif" width="75%" height="75%">
+
+* 多终端同步显示
+
+<img src="https://github.com/cliYao/Pixel-Painter/raw/master/ScreenShots/4.gif" width="75%" height="75%">
+
+
+* 自动保存图片，服务器重启不丢失数据
+
 # 功能列表
 
 * 使用canvas绘制，以节省内存提升性能
