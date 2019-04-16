@@ -16,8 +16,10 @@
 
 <img src="https://github.com/cliYao/Pixel-Painter/raw/master/ScreenShots/4.gif" width="75%" height="75%">
 
-
 * 自动保存图片，服务器重启不丢失数据
+
+<img src="https://github.com/cliYao/Pixel-Painter/raw/master/ScreenShots/4.gif" width="75%" height="75%">
+
 
 # 功能列表
 
